@@ -111,7 +111,7 @@ Aurora
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/Aurora.git
+git clone https://github.com/arjunum/Aurora.git
 ```
 
 ### Open Project
